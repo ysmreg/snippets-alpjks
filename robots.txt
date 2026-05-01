@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ysmreg.github.io/snippets-alpjks/sitemap.xml
